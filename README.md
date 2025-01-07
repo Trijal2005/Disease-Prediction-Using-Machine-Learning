@@ -11,12 +11,13 @@ A Machine Learning-based system that predicts diseases from user-provided sympto
 2. **Feature Extraction**: TF-IDF for text-to-numerical conversion.  
 3. **Model Development**: Using SVM, Random Forest, and Ensemble methods.  
 4. **Doctor Recommendation**: Suggests appropriate specialists.  
-<img src="https://github.com/user-attachments/assets/26923f82-d07b-464c-aba0-579310eae942" width="300" height="200"/>
+<img src="https://github.com/user-attachments/assets/26923f82-d07b-464c-aba0-579310eae942" width="700" height="600"/>
 ---
 ## 📈 Results  
 - **High Accuracy**: Achieved up to 97.5% accuracy using Ensemble of SVM and RandomForest 
 - **Timely Predictions**: Enables faster diagnosis compared to traditional methods.
-  ![image](https://github.com/user-attachments/assets/503a907a-53f4-4c9f-82df-c5fe90cefae2)
+<img src="https://github.com/user-attachments/assets/503a907a-53f4-4c9f-82df-c5fe90cefae2" width="700" height="600"/>
+
 ---
 ## 📂 Example Execution  
 ```python
